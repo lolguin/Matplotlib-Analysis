@@ -18,11 +18,11 @@ In this study, 250 mice identified with SCC tumor growth were treated through a 
 
 * Created a bar chart using both Pandas and Matplotlib showcasing the number of data points for each treatment regimen
 
-<img src="/images/drug_regimen_counts.jpg" width="900" height="600">
+<img src="/images/drug_regimen_counts.jpg" width="600" height="400">
 
 * Generated a pie chart showcasing the distribution of mice by sex
 
-![](/images/distribution_by_sex.jpg)
+<img src="/images/distribution_by_sex.jpg" width="600" height="400">
 
 * Created a box and whisker plot of the final tumor volume for all four treatment regiments. 
    * **STEPS**
@@ -32,9 +32,9 @@ In this study, 250 mice identified with SCC tumor growth were treated through a 
     4) Created a function to calculate quartiles and Inter-Quartile Range
     5) Created a function that checks for outliers
     6) Plot the box and whisker using Matplot Lib
-
-![](/images/final_tumor_vol.jpg)
+    
+<img src="/images/final_tumor_vol.jpg" width="600" height="400">
 
 * Created a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen. Also calculated the correlation coefficient.
 
-![](/images/weight_vs_vol.jpg)
+<img src="/images/weight_vs_vol.jpg" width="600" height="400">
