@@ -1,4 +1,4 @@
-# Analyzing a Fictional Animal Study using Matplotlib and Pandas
+# Analyze a pharmaceutical study using Matplotlib and Pandas 
 
 ## Background
 
@@ -9,7 +9,7 @@ In this study, 250 mice identified with SCC tumor growth were treated through a 
 ## Analysis
 
 * Generated a statistical summary table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen
-    **STEPS**
+   * **STEPS**
     1) Imported both CSV files and stored into dataframes via Pandas
     2) Merged both dataframes
     3) Grouped dataframes by Drug Regimine and used statistical functions to create the summary table
@@ -25,7 +25,7 @@ In this study, 250 mice identified with SCC tumor growth were treated through a 
 ![](/images/distribution_by_sex.jpg)
 
 * Created a box and whisker plot of the final tumor volume for all four treatment regiments. 
-    **STEPS**
+   * **STEPS**
     1) Filtered the dataset where timepoint equals the max timepoint
     2) Grouped the dataframe by drug regimen and mouse id.
     3) Created seperate dataframes for each drug regimen
