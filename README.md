@@ -1,4 +1,4 @@
-# Analyze a pharmaceutical study using Matplotlib and Pandas 
+# Analyzing a drug-treatment study using Matplotlib and Pandas 
 
 ## Background
 
