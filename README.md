@@ -18,7 +18,7 @@ In this study, 250 mice identified with SCC tumor growth were treated through a 
 
 * Created a bar chart using both Pandas and Matplotlib showcasing the number of data points for each treatment regimen
 
-![](/images/drug_regimen_counts.jpg)
+<img src="/images/drug_regimen_counts.jpg" width="900" height="600">
 
 * Generated a pie chart showcasing the distribution of mice by sex
 
